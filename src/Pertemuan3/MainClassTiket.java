@@ -1,4 +1,5 @@
-package Pertemuan4;
+package Pertemuan3;
+
 import java.io.*;
 public class MainClassTiket {
     public static void main(String[] args) {

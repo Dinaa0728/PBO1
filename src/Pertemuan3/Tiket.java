@@ -1,4 +1,4 @@
-package Pertemuan4;
+package Pertemuan3;
 import java.io.*;
 
 public class Tiket {

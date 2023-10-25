@@ -1,4 +1,4 @@
-package Pertemuan4;
+package Pertemuan3;
 
 public class Tiket2 {
     //atribut

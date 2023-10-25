@@ -1,4 +1,6 @@
-package Pertemuan4;
+package Pertemuan3;
+import Pertemuan3.Tiket2;
+
 import java.io.*;
 
 public class Utama {
